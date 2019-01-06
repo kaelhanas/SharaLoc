@@ -1,0 +1,11 @@
+D:\Hugo\Documents\JEE\Projet\ShareLoc\src\paths\Authentification.java
+D:\Hugo\Documents\JEE\Projet\ShareLoc\src\paths\SigninNeeded.java
+D:\Hugo\Documents\JEE\Projet\ShareLoc\src\model\Colocation.java
+D:\Hugo\Documents\JEE\Projet\ShareLoc\src\security\JWTokenUtility.java
+D:\Hugo\Documents\JEE\Projet\ShareLoc\src\controllers\UserManager.java
+D:\Hugo\Documents\JEE\Projet\ShareLoc\src\model\User.java
+D:\Hugo\Documents\JEE\Projet\ShareLoc\src\paths\JWTAuthFilter.java
+D:\Hugo\Documents\JEE\Projet\ShareLoc\src\dao\DAOAbstractFacade.java
+D:\Hugo\Documents\JEE\Projet\ShareLoc\src\security\JWTResponseFilter.java
+D:\Hugo\Documents\JEE\Projet\ShareLoc\src\dao\DAOUser.java
+D:\Hugo\Documents\JEE\Projet\ShareLoc\src\security\RsaKeyProducer.java
